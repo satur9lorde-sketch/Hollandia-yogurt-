@@ -1,0 +1,7 @@
+{
+  "name": "Hollandia Yogurt - Refresh Your Day",
+  "description": "A premium, high-converting website for Hollandia Yogurt, featuring product showcases, health benefits, and a store locator.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
